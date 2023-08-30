@@ -1,0 +1,14 @@
+/* Target specific Classes or IDs*/
+.heading {
+  color: red;
+}
+
+/* Target any element */
+ul {
+  color: blue;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+}
